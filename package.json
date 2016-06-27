@@ -1,0 +1,16 @@
+{
+  "name": "FirstExponent",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "exp": {
+    "name": "Hello!",
+    "sdkVersion": "6.0.0"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-native": "github:exponentjs/react-native#sdk-6.0.0"
+  }
+}
