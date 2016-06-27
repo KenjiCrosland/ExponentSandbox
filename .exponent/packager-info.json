@@ -1,0 +1,8 @@
+{
+  "exponentServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 7774,
+  "exponentServerNgrokUrl": "https://nk-vj5.kenjicrosland.firstexponent.exp.direct",
+  "packagerNgrokUrl": "https://packager.nk-vj5.kenjicrosland.firstexponent.exp.direct",
+  "ngrokPid": 8801
+}
